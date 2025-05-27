@@ -1,5 +1,5 @@
 package adapter.pattern;
 
-public interface Translator {
+public interface Translator { // target
 	void translate();
 }

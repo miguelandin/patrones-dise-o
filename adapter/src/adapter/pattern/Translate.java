@@ -1,6 +1,6 @@
 package adapter.pattern;
 
-public class Translate implements Translator {
+public class Translate implements Translator { // adapter
 	private English english = new  English();
 	
 	@Override
